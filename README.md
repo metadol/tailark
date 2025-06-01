@@ -6,19 +6,19 @@ Start editing by modifying files in the `app/` directory — changes update auto
 
 ## ✨ Features
 
-- ⚛️ Built with Next.js 13 (App Router)  
-- 🎨 Styled with Tailwind CSS  
-- 🧩 UI components and marketing blocks from ShadCN UI  
-- 📱 Fully responsive and accessible  
-- 🔤 Automatic font optimization with `next/font`  
-- ☁️ Ready to deploy on Vercel  
+- Built with Next.js 13 (App Router)  
+- Styled with Tailwind CSS  
+- UI components and marketing blocks from ShadCN UI  
+- Fully responsive and accessible  
+- Automatic font optimization with `next/font`  
+- Ready to deploy on Vercel  
 
 ## 📚 Learn More
 
-- 📄 [Next.js Documentation](https://nextjs.org/docs)  
-- 🎨 [Tailwind CSS](https://tailwindcss.com/docs)  
-- 🧩 [ShadCN UI](https://ui.shadcn.com/)  
-- 📦 [ShadCN Marketing Blocks](https://tailark.com/)  
+- [Next.js Documentation](https://nextjs.org/docs)  
+- [Tailwind CSS](https://tailwindcss.com/docs)  
+- [ShadCN UI](https://ui.shadcn.com/)  
+- [ShadCN Marketing Blocks](https://tailark.com/)  
 
 ## 🚀 Deployment
 
